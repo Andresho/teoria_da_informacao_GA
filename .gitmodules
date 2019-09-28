@@ -1,0 +1,3 @@
+[submodule "huffman_coding_MMagdys"]
+	path = huffman_coding_MMagdys
+	url = https://github.com/MMagdys/Huffman-Coding.git
