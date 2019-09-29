@@ -9,6 +9,7 @@ from HuffmanCompressor import HuffmanCompressor
 from adapter import compress_file_splitted
 
 def main():
+	#Escolha aqui o caminho do arquivo de entrada e arquivo de saída
 	filePath = "" 		# ex "./testFiles/sum"
 	outDirectory = "" 	# ex "./testFiles/bin/"
 
