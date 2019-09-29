@@ -9,6 +9,7 @@ from HuffmanDecompressor import HuffmanDecompressor
 from adapter import get_tree_bytes, decompress_file_with_pathname
 
 def main():
+    #Escolha aqui o caminho do arquivo de entrada e arquivo de saída
     file_path = "" # ex: "./testFiles/bin/alice29.huffmanCRC"
     out_file = "" # ex: "./testFiles/decompressed/alice29.txt"
     
